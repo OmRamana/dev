@@ -20,6 +20,19 @@ Use django_rest_framework to fetch data from an api and display it on the websit
 2. https://www.digitalocean.com/community/tutorials/how-to-display-data-from-the-digitalocean-api-with-django
 3. https://medium.com/@nutanbhogendrasharma/consume-rest-api-in-django-web-application-130c0daa6f70
 
+Tech
+
+- - - python json reading (paste in vs code to see clearly before reading)
+- - - mark-up programming language
+- - - dango_rest_framework 
+- - - react
+- - - react_bootstrap
+- - - bootstrap
+- - - MongoDb
+- - - json api creation of data upload online
+- - - python pandas dataframe as an updatable database with data dynamically displayed on a website
+
+
 
 
 
