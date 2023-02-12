@@ -1,0 +1,25 @@
+run a react app from gitHub
+
+git clone {the url to the GitHub repo}
+
+npm install
+
+npm start
+
+push a cloned repository to your own repo
+
+git remote set-url origin http://github.com/YOU/YOUR_REPO
+
+Use django_rest_framework to fetch data from an api and display it on the website
+
+--- design fetching data from an api in raw python, using a normal interpreter like pycharm or google colaboratory
+--- apply the design to a django file, that you to could refer to as API
+--- take the data collected from an API and display it on the website 
+
+1. https://studygyaan.com/django/how-to-display-api-response-in-html-using-django-template
+2. https://www.digitalocean.com/community/tutorials/how-to-display-data-from-the-digitalocean-api-with-django
+3. https://medium.com/@nutanbhogendrasharma/consume-rest-api-in-django-web-application-130c0daa6f70
+
+
+
+
